@@ -6,6 +6,11 @@ theme: 'stack'
 DefaultContentLanguage: en
 
 params:
+  sidebar:
+      avatar:
+          enabled: true
+          local: true
+          src: img/avatar.png
   widgets:
     homepage:
         - type: search
