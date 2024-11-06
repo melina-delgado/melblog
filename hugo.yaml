@@ -26,12 +26,12 @@ params:
           limit: 10
     page:
       - type: toc
-    colorScheme:
-      # Display toggle
-      toggle: true
+  colorScheme:
+    # Display toggle
+    toggle: true
 
-      # Available values: auto, light, dark
-      default: light
+    # Available values: auto, light, dark
+    default: light
 markup:
   tableOfContents:
     endLevel: 4
